@@ -1,0 +1,1 @@
+BookStore is a dynamic web application built using PHP and MySQL that allows users to explore, browse, and manage a collection of books online. It supports user authentication and provides features to view available books, add new books (admin), and manage book information.
